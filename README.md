@@ -50,7 +50,7 @@
 
 ###
 
-<br><br>
+<br>
 
 
 
@@ -112,7 +112,7 @@
 
 
 ###
-<br><br>
+<br>
 <h2 align="left">🚀 My Projects</h2>
 
 ###
