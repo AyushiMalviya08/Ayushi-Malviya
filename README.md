@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ayushi Malviya</h1>
 <h3 align="center">A passionate Web developer from India</h3>
  <div align="center">
-  <img height="150" src="https://tenor.com/view/coding-gif-4706460855862906629"/>
+<!--   <img height="150" src="https://tenor.com/view/coding-gif-4706460855862906629"/> -->
+  <div class="tenor-gif-embed" data-postid="4706460855862906629" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-gif-4706460855862906629">Coding Sticker</a>from <a href="https://tenor.com/search/coding-stickers">Coding Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div> 
+<div align="center">
+  <img height="150" src="DIRECT_LINK_TO_THE_GIF_FILE.gif" />
+</div>
 
 ###
 
