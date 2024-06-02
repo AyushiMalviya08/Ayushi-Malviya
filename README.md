@@ -123,63 +123,59 @@
   
   <!-- Project 1: FINIUS -->
   <h3>📚 FINIUS - Gamified Financial Literacy Platform</h3>
-  <a href="https://github.com/ayushimalviya08/finius">
+  <a href="https://github.com/AyushiMalviya08/FINIUS">
     <img src="https://github.com/AyushiMalviya08/AyushiMalviya08/assets/115863792/6573e126-1ead-4f97-8aa6-ce510cff89de?raw=true" alt="FINIUS Screenshot" width="100">
   </a>
-<!--   ![image](https://github.com/AyushiMalviya08/AyushiMalviya08/assets/115863792/6573e126-1ead-4f97-8aa6-ce510cff89de) -->
+
 
   <p>
     A gamified education platform designed to enhance financial literacy, integrating interactive learning with game elements developed in Unity.
     <br>
     <strong>Technologies:</strong> TypeScript, Next.js, Tailwind CSS, Unity.
     <br>
-    <a href="https://github.com/ayushimalviya08/finius">View Project</a>
+    <a href="https://github.com/AyushiMalviya08/FINIUS">View Project</a>
   </p>
   
   <!-- Project 2: Connect -->
   <h3>🌈 Connect - LGBTQ+ Social Platform</h3>
-  <a href="https://github.com/ayushimalviya08/connect">
+  <a href="https://github.com/AyushiMalviya08/connect-">
     <img src="https://github.com/AyushiMalviya08/AyushiMalviya08/assets/115863792/a0251507-ff3d-4904-920b-cf97b861dcaa" alt="Connect Screenshot" width="100">
   </a>
-<!-- ![image](https://github.com/AyushiMalviya08/AyushiMalviya08/assets/115863792/a0251507-ff3d-4904-920b-cf97b861dcaa)
- -->
+
   <p>
     A dedicated social platform for the LGBTQ+ community, providing a safe space for connection and community building.
     <br>
     <strong>Technologies:</strong> JavaScript, React.
     <br>
-    <a href="https://github.com/ayushimalviya08/connect">View Project</a>
+    <a href="https://github.com/AyushiMalviya08/connect-">View Project</a>
   </p>
   
   <!-- Project 3: DSA Visualization -->
   <h3>🔍 DSA Visualization - Making DSA Fun</h3>
-  <a href="https://github.com/ayushimalviya08/dsa-visualization">
+  <a href="https://github.com/AyushiMalviya08/innoveins">
     <img src="https://github.com/AyushiMalviya08/AyushiMalviya08/assets/115863792/bf4b7f46-dfbf-45bd-bb32-098fd9205b60" alt="DSA Visualization Screenshot" width="100">
   </a>
-<!--   ![image](https://github.com/AyushiMalviya08/AyushiMalviya08/assets/115863792/bf4b7f46-dfbf-45bd-bb32-098fd9205b60)
- -->
+
   <p>
     An interactive tool that makes learning data structures and algorithms engaging through visual demonstrations.
     <br>
     <strong>Technologies:</strong> JavaScript.
     <br>
-    <a href="https://github.com/ayushimalviya08/dsa-visualization">View Project</a>
+    <a href="https://github.com/AyushiMalviya08/innoveins">View Project</a>
   </p>
   
+<div>
   <!-- Project 4: Art-e-Kart -->
   <h3>🎨 Art-e-Kart - E-commerce for Artists and Artisans</h3>
-  <a href="https://github.com/ayushimalviya08/art-e-kart">
+  <a href="https://github.com/AyushiMalviya08/WD_pbl">
     <img src="https://github.com/AyushiMalviya08/AyushiMalviya08/assets/115863792/4f11204e-a8ff-431a-b501-c1b16d5dbc7d" alt="Art-e-Kart Screenshot" width="100">
-    
   </a>
   <p>
     An e-commerce platform tailored for artists and artisans to showcase and sell their unique works online.
-
-
+    <br>
     <strong>Technologies:</strong> JavaScript, React.
     <br>
-    <a href="https://github.com/ayushimalviya08/art-e-kart">View Project</a>
+    <a href="https://github.com/AyushiMalviya08/WD_pbl">View Project</a>
   </p>
-
 </div>
 
