@@ -80,9 +80,9 @@
   <!-- Project 1: FINIUS -->
   <h4>📚 FINIUS - Gamified Financial Literacy Platform</h4>
   <a href="https://github.com/ayushimalviya08/finius">
-    <img src="https://github.com/ayushimalviya08/finius/blob/main/screenshot.jpg?raw=true" alt="FINIUS Screenshot" width="100%">
+    <img src="https://github.com/AyushiMalviya08/AyushiMalviya08/assets/115863792/6573e126-1ead-4f97-8aa6-ce510cff89de?raw=true" alt="FINIUS Screenshot" width="100%">
   </a>
-  ![image](https://github.com/AyushiMalviya08/AyushiMalviya08/assets/115863792/6573e126-1ead-4f97-8aa6-ce510cff89de)
+<!--   ![image](https://github.com/AyushiMalviya08/AyushiMalviya08/assets/115863792/6573e126-1ead-4f97-8aa6-ce510cff89de) -->
 
   <p>
     A gamified education platform designed to enhance financial literacy, integrating interactive learning with game elements developed in Unity.
